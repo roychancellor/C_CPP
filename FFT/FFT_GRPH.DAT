@@ -1,0 +1,17 @@
+title=Frequency Spectrum:  Two-Beam Test Rig
+y-axis=Displacement Amplitude
+x-axis=Frequency, Hz
+comment=
+low x=0.000000
+high x=3.000000
+low y=0.00000
+high y=.5000000
+x major's=6
+y major's=10
+x minor's=2
+y minor's=2
+crosshairs=off
+x axis type=lin
+y axis type=lin
+graph quality=screen
+grid=on
