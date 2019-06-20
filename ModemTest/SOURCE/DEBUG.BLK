@@ -1,0 +1,8 @@
+	tmp = calloc( (size_t)1, (size_t)sizeof( POPWIN ) );
+	tmp -> top = 10;
+	tmp -> lft = 10;
+	sprintf( tmp -> mes, "argv[0]=%s; argv[1]=%s", argv[0], argv[1] );
+	tmp = popwin( tmp, ON );
+	getch();
+	tmp = popwin( tmp, OFF );
+	free( tmp );
