@@ -1,0 +1,20 @@
+50
+3.141592654
+.66666666667
+0.0
+0.0
+.8
+10.0
+400
+10800
+
+number of points per forcing cycle
+pendulum type (0 = regular, 1 = inverted--do not use here)
+poincare map phase angle (degrees)
+forcing frequency (nondimensional)
+theta 0 (degrees)
+omega 0 (degrees/sec)
+amplitude (nondimensional)
+damping (nondimensional)
+start time (sec)
+end time (sec)

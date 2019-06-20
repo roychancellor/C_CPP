@@ -1,0 +1,23 @@
+100
+3.141592654
+1.5
+0.0
+0.0
+400
+10600
+0.45
+11.024096
+13.336297
+.09424778
+
+number of points per forcing cycle
+Poincar‚ map phase angle (radians)
+forcing frequency (rad/sec)
+initial angle (degrees)
+initial angular velocity (degrees/sec)
+start time for Poincar‚ map
+end time for simulation
+damping / moment of inertia (1/m^2úsec)
+spring constant / moment of inertia (1/m^2úsec^2)
+mass * gravity * radius/moment of inertia (1/sec^2)
+forcing amplitude (radians)
