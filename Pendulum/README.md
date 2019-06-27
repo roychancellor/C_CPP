@@ -1,3 +1,4 @@
+# PendulumAnimator
 This is probably the coolest program I have ever written.  I wrote this during 1992/1993 when I was in graduate school
 at Texas A&M studying mechanical engineering - specifically, non-linear dynamic systems.  The program can animate a damped,
 driven pendulum allowed to travel through angles of arbitrary size. When the angle is large enough, chaotic behavior
